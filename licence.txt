@@ -29,6 +29,4 @@ The Licensor grants You the rights to use, reproduce, modify and communicate the
 The full text of this licence is available at:  
 https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12
 
-You may also include this notice in your README:
-
 > This project is licensed under the **European Union Public Licence (EUPL v1.2)** – see the [LICENSE](./LICENSE) file for details.
