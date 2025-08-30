@@ -1,0 +1,34 @@
+European Union Public Licence v.1.2
+
+This European Union Public Licence (the “EUPL”) applies to the Work or Software (the “Work”) you have received under this Licence. Any use of the Work, other than as authorised under this Licence is prohibited (to the extent such use is covered by a right of the copyright holder of the Work).
+
+The Licensor grants You the rights to use, reproduce, modify and communicate the Work subject to the terms and conditions of this Licence. 
+
+1. Definitions  
+- The terms “You” (or “Licensee”) and “Licensor” are defined in the full licence text available at https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12.
+
+2. Scope of Rights  
+- You may reproduce, distribute, communicate, and modify the Work.
+- You may sublicense the Work under this same Licence.
+- If you distribute the Work, you must provide a copy of this Licence.
+
+3. Obligations  
+- You must include appropriate attribution.
+- You must make Source Code available if you distribute the Work or a derivative.
+- You must keep the licence intact and make clear changes.
+
+4. Compatibility  
+- The EUPL is compatible with several other licences (e.g. GPLv2, AGPLv3, LGPL). See the compatibility list at: https://joinup.ec.europa.eu/collection/eupl/compatible-licences-eupl-12
+
+5. Disclaimer of Warranty  
+- The Work is provided “as is” without warranty of any kind.
+
+6. Governing Law  
+- This Licence shall be governed by the laws of the European Union country where the Licensor resides or has its registered office. In this case Estonia. 
+
+The full text of this licence is available at:  
+https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12
+
+You may also include this notice in your README:
+
+> This project is licensed under the **European Union Public Licence (EUPL v1.2)** – see the [LICENSE](./LICENSE) file for details.
